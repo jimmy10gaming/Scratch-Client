@@ -16,4 +16,4 @@ Hold H And You Will Fly
 StatsHUD:
 Just Shows Your FPS,CORDS,ETC
 
-Linkb For EaglerForge:[https://eaglerforge.github.io/EaglerForge-builds/web/v1.3.2/](url)
+Link For EaglerForge:[https://eaglerforge.github.io/EaglerForge-builds/web/v1.3.2/](url)
